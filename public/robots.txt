@@ -1,0 +1,18 @@
+# Robots.txt for AURA NAUTICA Luxury Superyacht Charters & Marine Experiences
+# Canonical Domain: https://auranautica.com
+
+User-agent: *
+Allow: /
+Allow: /assets/
+Allow: /cabinet_frames_600fps/
+
+# Shield administrative command and internal staging tools
+Disallow: /admin
+Disallow: /#/admin
+Disallow: /*?*admin*
+
+# Disallow draft or staging parameters
+Disallow: /*?*preview=true*
+
+# Reference XML Sitemap
+Sitemap: https://auranautica.com/sitemap.xml

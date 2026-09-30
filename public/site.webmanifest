@@ -1,0 +1,19 @@
+{
+  "name": "AURA NAUTICA — Ultra-Luxury Yacht Experiences & Sky Riding",
+  "short_name": "AURA NAUTICA",
+  "description": "Ultra-luxury superyacht charters, 800-ft parachute yacht sky riding, Seabob underwater jets, and private dive safaris in Monaco and the French Riviera.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#120d3f",
+  "theme_color": "#120d3f",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/assets/images/ride_sky_riding_1788888024545.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["travel", "lifestyle", "luxury"]
+}

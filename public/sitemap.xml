@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- Flagship Home Portal -->
+  <url>
+    <loc>https://auranautica.com/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://auranautica.com/assets/images/ride_sky_riding_1788888024545.jpg</image:loc>
+      <image:title>AURA NAUTICA 800-Foot Parachute Yacht Sky Riding Flight</image:title>
+      <image:caption>Ultra-luxury superyacht parasailing experience along the French Riviera and Monaco.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Curated Experiences & Charter Packages -->
+  <url>
+    <loc>https://auranautica.com/#/experiences</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://auranautica.com/assets/images/ride_air_diving_1788888071229.jpg</image:loc>
+      <image:title>Curated Superyacht Charter Packages and Hydro-Flight Safaris</image:title>
+    </image:image>
+  </url>
+
+  <!-- High-Speed Rides & Marine Water Toys -->
+  <url>
+    <loc>https://auranautica.com/#/rides</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://auranautica.com/assets/images/ride_seabob_jet_1788888046857.jpg</image:loc>
+      <image:title>Seabob F5 SR Underwater Jet Propulsion and Carbon eFoils</image:title>
+    </image:image>
+  </url>
+
+  <!-- Master Divers & Coral Reef Expeditions -->
+  <url>
+    <loc>https://auranautica.com/#/divers</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://auranautica.com/assets/images/diver_reef_action_1788888203328.jpg</image:loc>
+      <image:title>PADI 5-Star Master Divers and Marine Biologist Coral Safaris</image:title>
+    </image:image>
+  </url>
+
+  <!-- Guest Stories, Verified Ratings & Charter Reviews -->
+  <url>
+    <loc>https://auranautica.com/#/reviews</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- VIP Sanctuary & Client Portal -->
+  <url>
+    <loc>https://auranautica.com/#/auth</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+</urlset>
