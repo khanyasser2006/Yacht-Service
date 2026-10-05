@@ -111,7 +111,7 @@ http://localhost:3000
 
 ---
 
-## 🎥 Demo
+## 🎥 Video
 
 *Add a screen recording of the hero scroll here, plus a walkthrough of the Interactive Itinerary Builder — watching the price update live is the best part of this one.*
 
