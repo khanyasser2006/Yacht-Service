@@ -1,3 +1,5 @@
+
+
 # 🛥️ Aura Nautica
 
 A cinematic site for a luxury yacht charter and watersports concierge — a scroll-scrubbed hero, an interactive itinerary builder with live pricing, a curated roster of dive instructors and rides, and a sprawling admin CMS covering the entire fleet, crew, and booking catalog.
@@ -112,6 +114,10 @@ http://localhost:3000
 ---
 
 ## 🎥 Video
+
+
+
+https://github.com/user-attachments/assets/f9e3192c-3433-4c24-a492-b065436389e8
 
 
 
